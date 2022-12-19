@@ -14,5 +14,7 @@ Specifications: For the dashboard, the company would like you to use their brand
 
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/119513176/208437729-b1d10566-093e-4922-8692-1dd570bf07c1.png">
 
+[Click Here to see the DashBoard](https://app.powerbi.com/groups/me/reports/13b5200b-03cc-4615-a67e-2c139cfb787f/ReportSection)
+
 
 
